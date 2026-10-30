@@ -1,4 +1,6 @@
-
+ 
+ 
+ 
 from IPython.display import display, HTML
 import json
 
@@ -561,4 +563,3 @@ display(HTML(
     ' style="width:100%;height:760px;border:0;border-radius:12px" '
     'allow="fullscreen"></iframe>'
 ))
-
